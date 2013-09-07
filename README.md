@@ -1,7 +1,7 @@
 PeanutButterJelly
 =================
 
-HTML WYSIWYG editor in Javascript
+Bootstrap3 HTML WYSIWYG editor in Javascript
 
 # How to use
 
