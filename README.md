@@ -5,10 +5,13 @@ Bootstrap3 HTML WYSIWYG editor in Javascript
 
 # How to use
 
+### include bootstrap3
+	<script type="text/javascript" scr="bootstrap.min.js"></script>
+
+
 ### include the js files
 
 	<script type="text/javascript" scr="PeanutButterJelly.js"></script>
-	<script type="text/javascript" scr="PeanutButterJellyEvents.js"></script>
 
 ### include the CSS file
 
