@@ -38,4 +38,4 @@ Bootstrap3 HTML WYSIWYG editor in Javascript
 	
 	
 ## Here's a video to get you started ;)
-	https://www.youtube.com/watch?v=-VK-VjWbvF4
+https://www.youtube.com/watch?v=-VK-VjWbvF4
