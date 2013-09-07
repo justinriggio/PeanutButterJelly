@@ -6,10 +6,12 @@ HTML WYSIWYG editor in Javascript
 # How to use
 
 ### include the js files
+
 	<script type="text/javascript" scr="PeanutButterJelly.js"></script>
 	<script type="text/javascript" scr="PeanutButterJellyEvents.js"></script>
 
 ### include the CSS file
+
 	<link rel="stylesheet" type="text/css" href="PeanutButterJelly.css">
 	
 ## in your code init PBJ like this:	
@@ -17,7 +19,7 @@ HTML WYSIWYG editor in Javascript
 	var pbj = new PeanutButterJelly();
 	pbj.init();
 	
-## in your HTML add the pbj divs:
+## in your HTML add the PBJ DIVs:
 
 	<!-- Main Canvas Container. Just add class pbj -->
 	<div class="pbj">
